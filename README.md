@@ -13,6 +13,9 @@ pnpm dev
 # or
 bun dev
 ```
+#Open or download this file for detail aplication timesheet management
+[apk_timesheet_technical_assessment_raden_rafly_pradana_kusumah.pdf](https://github.com/user-attachments/files/15753331/apk_timesheet_technical_assessment_raden_rafly_pradana_kusumah.pdf)
+
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
